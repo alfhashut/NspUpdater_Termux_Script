@@ -1,0 +1,1 @@
+# NspUpdater_Termux_Script
