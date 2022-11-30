@@ -1,7 +1,7 @@
 # NspUpdater_Termux_Script
 
 ->Just run this code:
-Pkg update && pkg upgrade && pkg install git && git clone https://github.com/alfhashut/NspUpdater_Termux_Script.git 
+pkg update && pkg upgrade && pkg install git && git clone https://github.com/alfhashut/NspUpdater_Termux_Script.git 
 
 ->What to do next:
 
