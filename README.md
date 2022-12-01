@@ -18,3 +18,5 @@ pkg update && pkg upgrade && pkg install git && git clone https://github.com/alf
 1->hactool
 
 2->hacPack
+
+3->Skyline
