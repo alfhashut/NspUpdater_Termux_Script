@@ -13,6 +13,8 @@ pkg update && pkg upgrade && pkg install git && git clone https://github.com/alf
 
 ->I'm working on some things that need to be fixed
 
+->This script is completely prepared using termux, and if you update the nsp with this, you can use this updated Nsp in skyline.
+
 -----Credit-----
 
 1->hactool
@@ -20,3 +22,7 @@ pkg update && pkg upgrade && pkg install git && git clone https://github.com/alf
 2->hacPack
 
 3->Skyline
+
+---Update---
+
+0.1 Update:Fixes and bug fixes in the codes in the script
