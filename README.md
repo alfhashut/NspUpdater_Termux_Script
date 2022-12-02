@@ -1,5 +1,7 @@
 # NspUpdater_Termux_Script
 
+->Termux please download from this link:https://f-droid.org/en/packages/com.termux/
+
 ->Just run this code:
 pkg update && pkg upgrade && pkg install git && git clone https://github.com/alfhashut/NspUpdater_Termux_Script.git && cd NspUpdater_Termux_Script && bash NspUpdaterİnstaller
 
