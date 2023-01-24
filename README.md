@@ -9,8 +9,11 @@ pkg update && pkg upgrade && pkg install git && git clone https://github.com/alf
 
 -copy game+update+key to NspUpdater_Termux_Script
 
--bash NspUpdaterRun
+-You can use menu or original path
 
+-Menu:Python Menu.py
+
+-orijinal:bash NspUpdaterRun
 -------------------------
 
 ->I'm working on some things that need to be fixed
@@ -28,3 +31,5 @@ pkg update && pkg upgrade && pkg install git && git clone https://github.com/alf
 ---Update---
 
 0.1 Update:Fixes and bug fixes in the codes in the script
+
+0.2 Menu Update:Added user-friendly menu, fixed some problems and bugs and more
