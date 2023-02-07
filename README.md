@@ -11,7 +11,7 @@ pkg update && pkg upgrade && pkg install git && git clone https://github.com/alf
 
 -You can use menu or original path
 
--Menu:Python Menu.py
+-Menu:python Menu.py
 
 -orijinal:bash NspUpdaterRun
 -------------------------
