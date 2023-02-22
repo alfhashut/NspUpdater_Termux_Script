@@ -1,35 +1,40 @@
-# NspUpdater_Termux_Script
+# NspUpdater for Termux
 
-->Termux please download from this link:https://f-droid.org/en/packages/com.termux/
+## Prerequisites
+- [Termux](https://f-droid.org/en/packages/com.termux/)
 
-->Just run this code:
+- Copy paste the following command in Termux:
+```sh
 pkg update && pkg upgrade && pkg install git && git clone https://github.com/alfhashut/NspUpdater_Termux_Script.git && cd NspUpdater_Termux_Script && bash NspUpdaterİnstaller
+```
 
-->What to do next:
+## Usage
 
--copy game+update+key to NspUpdater_Termux_Script
+What to do next?
 
--You can use menu or original path
+1. Copy your games, updates, and keys to the NspUpdater_Termux_Script folder.
 
--Menu:python Menu.py
+2. You can launch the program in 2 ways:
+```sh
+python Menu.py
 
--orijinal:bash NspUpdaterRun
--------------------------
+# OR
 
-->I'm working on some things that need to be fixed
+NspUpdaterRun
+```
 
-->This script is completely prepared using termux, and if you update the nsp with this, you can use this updated Nsp in skyline.
+---
 
------Credit-----
+> I'm working on some things that need to be fixed
 
-1->hactool
+> This script is completely prepared using termux, and if you update the nsp with this, you can use this updated Nsp in skyline.
 
-2->hacPack
+# Credits
+- hactool
+- hacpack
+- Skyline
 
-3->Skyline
+# Changelog
 
----Update---
-
-0.1 Update:Fixes and bug fixes in the codes in the script
-
-0.2 Menu Update:Added user-friendly menu, fixed some problems and bugs and more
+`0.1`: Fixes and bug fixes in the codes in the script
+`0.2` \[Menu Update\]: Added user-friendly menu, fixed some problems and bugs and more
