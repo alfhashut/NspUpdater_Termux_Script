@@ -29,12 +29,12 @@ NspUpdaterRun
 
 > This script is completely prepared using termux, and if you update the nsp with this, you can use this updated Nsp in skyline.
 
-# Credits
+## Credits
 - [hactool](https://github.com/SciresM/hactool)
 - [hacPack](https://github.com/The-4n/hacPack)
 - [Skyline](https://github.com/skyline-emu/skyline)
 
-# Changelog
+## Changelog
 
 `0.1`: Fixes and bug fixes in the codes in the script
 
