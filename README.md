@@ -39,3 +39,5 @@ NspUpdaterRun
 `0.1`: Fixes and bug fixes in the codes in the script
 
 `0.2` \[Menu Update\]: Added user-friendly menu, fixed some problems and bugs and more
+
+`0.3` \[Nanu Update\]: Nsp updater name changed new name nanu. Nanu Github is fully updated (nozwock thanks for that). Bug fixes and new features and more. 
