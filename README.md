@@ -1,4 +1,4 @@
-# NspUpdater for Termux
+# Nanu {Epic nsp Updater} for Termux
 
 ## Prerequisites
 - [Termux](https://f-droid.org/en/packages/com.termux/)
