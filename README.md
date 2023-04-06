@@ -16,7 +16,7 @@ What to do next?
 
 2. You can launch the program in 2 ways:
 ```sh
-python Menu.py
+python menü.py
 
 # OR
 
