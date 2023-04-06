@@ -42,4 +42,4 @@ NspUpdaterRun
 
 `0.3` \[Nanu Update\]: Nsp updater name changed new name nanu. Nanu Github is fully updated (nozwock thanks for that). Bug fixes and new features and more. 
 
-`0.3` \[Fix Update\]: menu 404 error resolved
+`0.3(Fix)` \[Fix Update\]: menu 404 error resolved
