@@ -20,7 +20,7 @@ python menü.py
 
 # OR
 
-NspUpdaterRun
+bash NspUpdaterRun game.nsp update.nsp
 ```
 
 ---
