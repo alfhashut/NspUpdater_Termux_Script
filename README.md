@@ -1,4 +1,4 @@
-# Nanu {not another nsp updater} for Termux
+# Nanu {not another nsp updater} for Termux (Development on this project has been discontinued)
 
 ## Prerequisites
 - [Termux](https://f-droid.org/en/packages/com.termux/)
