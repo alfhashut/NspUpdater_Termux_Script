@@ -32,8 +32,8 @@ bash NspUpdaterRun game.nsp update.nsp
 
 ## Credits
 - [hactool](https://github.com/SciresM/hactool)
-- [hacPack](https://github.com/The-4n/hacPack)
-- [Skyline](https://github.com/skyline-emu/skyline)
+- [hacPack](https://github.com/The-4n/hacPack) -its gone for some reason.-
+- [Skyline](https://github.com/skyline-emu/skyline) -Killed by nintendo.-
 
 ## Changelog
 
